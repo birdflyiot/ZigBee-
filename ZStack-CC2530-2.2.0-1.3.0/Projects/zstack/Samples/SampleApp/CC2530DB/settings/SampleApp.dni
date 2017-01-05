@@ -1,0 +1,72 @@
+[CodeCoverage]
+Enabled=_ 0
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=1552030481
+[InstructionProfiling]
+Enabled=_ 0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "Code:0x7E96" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$}.87.6@1" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$\..\Source\SampleApp.c}.1001.7@1" 1 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{$PROJ_DIR$\..\Source\SampleApp.c}.1018.7@1" 1 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\..\Source\SampleApp.c}.1841.7@1" 1 0 0 0 "" 0 ""
+Bp5=_ "STD_CODE" "{$PROJ_DIR$\..\Source\SampleApp.c}.1849.7@1" 1 0 0 0 "" 0 ""
+Count=6
+[ChipconEmu]
+Stop timers on halt=1
+Leave target running=1
+[Aliases]
+A0=_ "C:\Documents and Settings\Administrator\桌面\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\hal\target\CC2530EB\hal_key.c" ""
+A1=_ "C:\Documents and Settings\Administrator\桌面\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\hal\target\CC2530EB\hal_lcd.c" ""
+A2=_ "C:\Documents and Settings\Administrator\桌面\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\mac\low_level\srf04\mac_tx.c" ""
+A3=_ "C:\Documents and Settings\Administrator\桌面\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\mac\low_level\srf04\single_chip\mac_mcu.c" ""
+A4=_ "C:\Documents and Settings\Administrator\桌面\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\osal\common\OSAL.c" ""
+A5=_ "C:\Documents and Settings\Administrator\桌面\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\stack\zdo\ZDConfig.c" ""
+A6=_ "C:\Documents and Settings\Administrator\桌面\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A7=_ "E:\项目练习\ZigBee\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\hal\target\CC2530EB\hal_key.c" ""
+A8=_ "E:\项目练习\ZigBee\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\hal\target\CC2530EB\hal_lcd.c" ""
+A9=_ "E:\项目练习\ZigBee\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\mac\low_level\srf04\mac_autopend.c" ""
+A10=_ "E:\项目练习\ZigBee\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\osal\common\OSAL.c" ""
+A11=_ "E:\项目练习\ZigBee\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Components\stack\af\AF.c" ""
+A12=_ "E:\项目练习\ZigBee\ZigBee2007_PRO程序\ZigBee2007_PRO程序\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" "E:\项目练习\ZigBee\移植回传PC并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A13=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\hal\target\CC2530EB\hal_dma.c" "E:\项目练习\ZigBee\复件 40s单灯对应有曲线反向控制移植回传gprs\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A14=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\hal\target\CC2530EB\hal_key.c" ""
+A15=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\hal\target\CC2530EB\hal_lcd.c" "E:\项目练习\ZigBee\40s多灯对应不完善有曲线反向控制移植回传gprs\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A16=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\hal\target\CC2530EB\hal_startup.c" ""
+A17=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\hal\target\CC2530EB\hal_timer.c" "E:\项目练习\ZigBee\复件 40s单灯对应有曲线反向控制移植回传gprs\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A18=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\mac\low_level\srf04\mac_autopend.c" ""
+A19=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\mac\low_level\srf04\mac_radio.c" ""
+A20=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\mac\low_level\srf04\single_chip\mac_mcu.c" "E:\项目练习\ZigBee\40s多灯对应不完善有曲线反向控制移植回传gprs\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A21=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\mac\low_level\srf04\single_chip\mac_mem.c" ""
+A22=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\services\saddr\saddr.c" "E:\项目练习\ZigBee\复件 40s单灯对应有曲线反向控制移植回传gprs\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A23=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\stack\zdo\ZDConfig.c" ""
+A24=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Components\zmac\f8w\zmac.c" "E:\项目练习\ZigBee\40s多灯对应不完善有曲线反向控制移植回传gprs\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A25=_ "E:\项目练习\ZigBee\反向控制移植回传gprs并添加总按键1添加按键组播中断按键中断驱动节点直流电机继电器\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" "E:\项目练习\ZigBee\复件 40s单灯对应有曲线反向控制移植回传gprs\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A26=_ "E:\项目练习\ZigBee\复件 40s单灯对应有曲线反向控制移植回传gprs\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A27=_ "E:\项目练习\ZigBee\上传改进40s多灯对应不完善有曲线反向控制移植回传gprs\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" "G:\项目练习\研究生电子大赛\ZIgbee\开关  DHT11\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A28=_ "G:\项目练习\研究生电子大赛\ZIgbee\开关  DHT11 树莓派 增加10节点\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" "J:\项目练习\研究生电子大赛\ZIgbee\开关  DHT11 树莓派 增加10节点传感器 精简代码 增加节点123\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+A29=_ "G:\项目练习\研究生电子大赛\ZIgbee\开关  DHT11 树莓派 增加10节点传感器\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" "J:\项目练习\研究生电子大赛\ZIgbee\开关  DHT11 树莓派 增加10节点传感器\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c"
+Count=30
+SuppressDialog=1

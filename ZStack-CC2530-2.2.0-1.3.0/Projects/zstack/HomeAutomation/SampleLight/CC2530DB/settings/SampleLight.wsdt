@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>SampleLight/CoordinatorEB</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>210</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>525</ColumnWidth1><ColumnWidth2>140</ColumnWidth2><ColumnWidth3>35</ColumnWidth3></Build><TerminalIO/></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17551-9236</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SampleLight</ExpandedNode><ExpandedNode>SampleLight/App</ExpandedNode><ExpandedNode>SampleLight/HAL</ExpandedNode><ExpandedNode>SampleLight/HAL/Target</ExpandedNode><ExpandedNode>SampleLight/HAL/Target/CC2530EB</ExpandedNode><ExpandedNode>SampleLight/HAL/Target/CC2530EB/Config</ExpandedNode><ExpandedNode>SampleLight/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-24415-25187</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>F:\&#x968F;&#x7B14;\&#x4eA7;&#x54C1;&#x5316;\CC2530PK(&#x5F85;&#x6574;&#x7406;)\ZigBee2007&#x7A0B;&#x5e8F;\Texas Instruments\ZStack-CC2530-2.2.0-1.3.0\Projects\zstack\ZMain\TI2530DB\ZMain.c</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>4316</SelStart><SelEnd>4316</SelEnd></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-013889b8><key>iaridepm.enu1</key></Toolbar-013889b8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>455</Bottom><Right>299</Right><x>-2</x><y>-2</y><xscreen>-2933450</xscreen><yscreen>-1496786</yscreen><sizeHorzCX>-2147474377</sizeHorzCX><sizeHorzCY>-2147469153</sizeHorzCY><sizeVertCX>220351</sizeVertCX><sizeVertCY>655667</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>197</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>199</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>285509</sizeHorzCY><sizeVertCX>195461</sizeVertCX><sizeVertCY>285509</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
